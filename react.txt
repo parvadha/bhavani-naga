@@ -1,0 +1,9 @@
+React
+--------------
+SPA
+Virtual dom
+Folder structure
+Component
+State,props
+Conditional styling,conditional rendering
+Hooks
